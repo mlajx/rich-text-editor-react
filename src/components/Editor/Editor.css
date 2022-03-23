@@ -1,0 +1,9 @@
+.ql-toolbar {
+    @apply mb-2;
+}
+
+.ql-toolbar,
+.ql-container,
+.ql-picker-options {
+    @apply rounded bg-white rounded !border-0 shadow;
+}
